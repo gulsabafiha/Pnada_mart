@@ -1,0 +1,20 @@
+.panda-bg-color{
+    background-color: #fceae8;
+}
+
+/* Categories section  */
+.first-color{
+    background-color: #fba500;
+}
+.bag-color{
+    background-color: #da70d6;
+}
+.shoes-color{
+    background-color: #0006ff;
+}
+
+/* Button color  */
+.panda-btn{
+    background-color: #f83f8b;
+    padding: 9px 25px;
+}
